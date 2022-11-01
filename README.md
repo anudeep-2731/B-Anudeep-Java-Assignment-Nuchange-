@@ -19,4 +19,8 @@ Features Implemented:
    Displays the usage count of the url.
  5.Displays the list:
    Displays all the urls objects stored in database in Json format.
- 
+   
+   
+   
+ ![image](https://user-images.githubusercontent.com/58800281/199237578-85e5391b-42f5-4e86-97a0-0908ac803b9f.png)
+
