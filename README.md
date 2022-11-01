@@ -21,7 +21,10 @@ Features Implemented:
    Displays all the urls objects stored in database in Json format.
    
    
-   
+  Architecture:
+  
  ![image](https://user-images.githubusercontent.com/58800281/199237578-85e5391b-42f5-4e86-97a0-0908ac803b9f.png)
+ 
+ Database Schema:
 
 ![database schema](https://user-images.githubusercontent.com/58800281/199241335-39b5bd82-ca6b-49d3-9a82-9ca2ff2c8a9a.png)
